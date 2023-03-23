@@ -1,6 +1,6 @@
 ## Transparency and Consent Framework (TCF) Research
 
-We are a group of researches conducting qualitative and quantitavie studies analyzing the deployment of the TCF framework across the public web. Contributors are welcome.
+We are a group of researchers conducting qualitative and quantitavie studies analyzing the deployment of the TCF framework across the public web. Contributors are welcome.
 
 
 <!--
